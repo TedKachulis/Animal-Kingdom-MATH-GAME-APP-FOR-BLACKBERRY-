@@ -1,0 +1,12 @@
+<qnx>
+	<icon>
+		<image>AKicon.png</image>
+	</icon>
+	<author>ayj</author>
+	<authorId>gYAAgIqK0RLL5u4I9NanyxBUuCI</authorId>
+	<category>core.games</category>
+	<splashscreen>AKsplashscreen.png</splashscreen>
+	<action>play_audio</action>
+	<buildId>1</buildId>
+	<platformVersion>1.0.0.0</platformVersion>
+</qnx>
